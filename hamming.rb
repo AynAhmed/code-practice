@@ -17,5 +17,5 @@ def hamming_distance(dna1, dna2)
     return distance
   end
   
-  # Example usage:
+  # Example:
   puts hamming_distance("GAGCCTACTAACGGGAT", "CATCGTAATGACGGCCT")
